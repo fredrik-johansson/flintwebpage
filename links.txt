@@ -25,6 +25,7 @@ bindings for Flint (Fredrik Johansson)</li>
 <li><a
 href="https://research.coe.drexel.edu/ece/aspitrg/chmlib-readme.txt">chmlib</a>
 - Projection of polyhedral cones</li>
+<li><a href=""></a> - Haskell wrapper of Flint (Hartmut Monien)</li>
 </ul>
 
 <h3>References to FLINT in the literature and online</h3>
